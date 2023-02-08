@@ -1,0 +1,22 @@
+# OSI stack with respective vulnerabilities under each stack layer
+
+
+# Application Layer (Layer 7)
+
+
+# Presentation Layer (layer 6)
+
+
+# Session Layer (layer 5)
+
+
+# Transport Layer (layer 4)
+
+
+# Network Layer (layer 3)
+
+
+# Data-link Layer (layer 2)
+
+
+# Physical Layer (layer 1)
